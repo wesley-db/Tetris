@@ -1,4 +1,5 @@
-**Commands**<br>
+Following the snake game, I decided to tackle a more challenging game to develop, and Tetris is it. The game is also written in Java and utilizes the Swings library for the GUI. A significant difference between the snake and Tetris games is that the division of concerns should be much better. <br>
+<br>**Commands**<br>
 :arrow_left: - Move the Tetromino to the left <br>
 :arrow_right: - Move the Tetromino to the right <br>
 :arrow_down: - Move the Tetromino downwards <br>
